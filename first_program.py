@@ -1,1 +1,1 @@
-p
+print("I like bananas.")
